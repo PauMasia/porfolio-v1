@@ -44,6 +44,7 @@ soopr:
 highlighter: rouge
 
 sass:
+  sass_dir: _sass
   style: :compressed
 
 plugins:
