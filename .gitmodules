@@ -1,0 +1,3 @@
+[submodule "parteJekyll/parteJekyll"]
+	path = parteJekyll/parteJekyll
+	url = https://github.com/PauMasia/moonwalkTs
